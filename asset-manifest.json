@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uexam/static/css/main.e86483ff.css",
+    "main.js": "/uexam/static/js/main.43047fc8.js",
+    "static/js/787.bb5fd9c4.chunk.js": "/uexam/static/js/787.bb5fd9c4.chunk.js",
+    "index.html": "/uexam/index.html",
+    "main.e86483ff.css.map": "/uexam/static/css/main.e86483ff.css.map",
+    "main.43047fc8.js.map": "/uexam/static/js/main.43047fc8.js.map",
+    "787.bb5fd9c4.chunk.js.map": "/uexam/static/js/787.bb5fd9c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e86483ff.css",
+    "static/js/main.43047fc8.js"
+  ]
+}
