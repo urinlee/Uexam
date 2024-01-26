@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Uexam/static/css/main.e86483ff.css",
-    "main.js": "/Uexam/static/js/main.e86e2127.js",
+    "main.js": "/Uexam/static/js/main.c788f0ae.js",
     "static/js/787.bb5fd9c4.chunk.js": "/Uexam/static/js/787.bb5fd9c4.chunk.js",
     "index.html": "/Uexam/index.html",
     "main.e86483ff.css.map": "/Uexam/static/css/main.e86483ff.css.map",
-    "main.e86e2127.js.map": "/Uexam/static/js/main.e86e2127.js.map",
+    "main.c788f0ae.js.map": "/Uexam/static/js/main.c788f0ae.js.map",
     "787.bb5fd9c4.chunk.js.map": "/Uexam/static/js/787.bb5fd9c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e86483ff.css",
-    "static/js/main.e86e2127.js"
+    "static/js/main.c788f0ae.js"
   ]
 }
